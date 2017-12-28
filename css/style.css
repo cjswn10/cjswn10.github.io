@@ -1,0 +1,27 @@
+body, ul, header {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #E5E2D3;
+    margin: 0;
+    padding: 0 90px;
+
+}
+.background-top {
+    background-color: #E8634E;
+    height: 15px;
+    margin: 0;
+    padding: 0;
+}
+footer {
+    background-color: #E8634E;
+    margin: 0;
+    padding: 0 90px;
+}
+
+.menu li{
+    display: inline-block;
+    padding: 0;
+}

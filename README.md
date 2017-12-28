@@ -1,2 +1,2 @@
-# cjswn10.github.io-
-profile
+# cjswn10.github.io
+portfolio
